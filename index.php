@@ -2,9 +2,9 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Site TDS III</title>
+  <title>Meu site</title>
 </head>
 <body>
-    <?php echo "<h1>Olá, mundo!</h1>" ?>
+    <?php echo "<h1>Ola, mundo!</h1>" ?>
 </body>
 </html>
