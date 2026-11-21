@@ -2,7 +2,7 @@
 // Definindo os dados de conexão com o banco MySQL
 $host = "sql211.infinitytree.com";
 $banco = "if0_43414557_meu_banco";
-$usuario = "root ";
+$usuario = "root";
 $senha = " ";
 
 try {
